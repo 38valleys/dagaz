@@ -12,12 +12,16 @@ Example of Output
 ----------------------
 
 For example, the output will be as follows
-(guess how the labels are determied!)
+(guess how the labels are determied by the name of authors!)
 
  [B]  S. H. Brook, "How to survive --- although I am already dead", ...
+
  [Cho] T. T. Chopper, "On a problem about medical treatment on the sea", .,.
+
  [Cr1] S. Crocodile, "An efficient way of managing a large community", ...
+
  [Ch2] S. Crocodile, "A new method of analysing sands", ...
+
  [V-Chr]  M. Valentine and M. M. Christmas, "Women in a company", ...
 
 
